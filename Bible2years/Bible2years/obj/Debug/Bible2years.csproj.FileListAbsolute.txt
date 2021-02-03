@@ -1,0 +1,11 @@
+D:\Training\Christ\Bible2years\Bible2years\bin\Debug\Bible2years.exe.config
+D:\Training\Christ\Bible2years\Bible2years\bin\Debug\Bible2years.exe
+D:\Training\Christ\Bible2years\Bible2years\bin\Debug\Bible2years.pdb
+D:\Training\Christ\Bible2years\Bible2years\obj\Debug\Bible2years.csprojAssemblyReference.cache
+D:\Training\Christ\Bible2years\Bible2years\obj\Debug\Bible2years.Form1.resources
+D:\Training\Christ\Bible2years\Bible2years\obj\Debug\Bible2years.Properties.Resources.resources
+D:\Training\Christ\Bible2years\Bible2years\obj\Debug\Bible2years.csproj.GenerateResource.cache
+D:\Training\Christ\Bible2years\Bible2years\obj\Debug\Bible2years.csproj.CoreCompileInputs.cache
+D:\Training\Christ\Bible2years\Bible2years\obj\Debug\Bible2years.exe
+D:\Training\Christ\Bible2years\Bible2years\obj\Debug\Bible2years.pdb
+D:\Training\Christ\Bible2years\Bible2years\bin\Debug\14_holy_bible_christian_religious_book_prayer_icon-icons.com_77049.ico

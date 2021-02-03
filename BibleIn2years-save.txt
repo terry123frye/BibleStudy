@@ -1,0 +1,730 @@
+1. Genesis 1-2
+2. Genesis 3-4
+3. Genesis 5-6
+4. Genesis 7-8
+5. Genesis 9-10
+6. Genesis 11-12
+7. Genesis 13-14
+8. Genesis 15-16
+9. Genesis 17-18
+10. Genesis 19-20
+11. Genesis 21-22
+12. Genesis 23-24
+13. Genesis 25-26
+14. Genesis 27-28
+15. Genesis 29-30
+16. Genesis 31
+17. Genesis 32-33
+18. Genesis 34-35
+19. Genesis 36-37
+20. Genesis 38-39
+21. Genesis 40-41
+22. Genesis 42-43
+23. Genesis 44-45
+24. Genesis 46-47
+25. Genesis 48-49
+26. Genesis 50, Job 1
+27. Job 2-3
+28. Job 4-5
+29. Job 6-7
+30. Job 8-9
+31. Job 10-11
+32. Job 12-13
+33. Job 14-15
+34. Job 16-17
+35. Job 18-19
+36. Job 20-21
+37. Job 22-23
+38. Job 24-25
+39. Job 26-28
+40. Job 29-30
+41. Job 31-32
+42. Job 33-34
+43. Job 35-36
+44. Job 40-42
+45. Exodus 1
+46. Exodus 2-3
+47. Exodus 4-5
+48. Exodus 6-7
+49. Exodus 8-9
+50. Exodus 10-11
+51. Exodus 12-13
+52. Exodus 14-15
+53. Exodus 16-17
+54. Exodus 18-19
+55. Exodus 20-21
+56. Exodus 22-23
+57. Exodus 24-25
+58. Exodus 26-27
+59. Exodus 28
+60. Exodus 29
+61. Exodus 30-31
+62. Exodus 32
+63. Exodus 33
+64. Exodus 34
+65. Exodus 35
+66. Exodus 36-37
+67. Exodus 38
+68. Exodus 39
+69. Exodus 40, Leviticus 1
+70. Leviticus 2-3
+71. Leviticus 4
+72. Leviticus 5-6
+73. Leviticus 7-8
+74. Leviticus 9-10
+75. Leviticus 11-12
+76. Leviticus 13
+77. Leviticus 14
+78. Leviticus 15-16
+79. Leviticus 17-18
+80. Leviticus 19-20
+81. Leviticus 21-22
+82. Leviticus 23
+83. Leviticus 24-25
+84. Leviticus 26
+85. Leviticus 27
+86. Numbers 1
+87. Numbers 2
+88. Numbers 3
+89. Numbers 4
+90. Numbers 5
+91. Numbers 6
+92. Numbers 7
+93. Numbers 8-9
+94. Numbers 10
+95. Numbers 11
+96. Numbers 12-13
+97. Numbers 14
+98. Numbers 15
+99. Numbers 16-17
+100. Numbers 18-19
+101. Numbers 20
+102. Numbers 21
+103. Numbers 22
+104. Numbers 23
+105. Numbers 24-25
+106. Numbers 26
+107. Numbers 27-28
+108. Numbers 29-30
+109. Numbers 31
+110. Numbers 32
+111. Numbers 33
+112. Numbers 34-35
+113. Numbers 36
+114. Deuteronomy 1
+115. Deuteronomy 2
+116. Deuteronomy 3
+117. Deuteronomy 4
+118. Deuteronomy 5-6
+119. Deuteronomy 7-8
+120. Deuteronomy 9
+121. Deuteronomy 10
+122. Deuteronomy 11
+123. Deuteronomy 12
+124. Deuteronomy 13-14
+125. Deuteronomy 15-16
+126. Deuteronomy 17-18
+127. Deuteronomy 19-20
+128. Deuteronomy 21-22
+129. Deuteronomy 23-24
+130. Deuteronomy 25-26
+131. Deuteronomy 27
+132. Deuteronomy 28:1-35
+133. Deuteronomy 28:36-68
+134. Deuteronomy 29-30
+135. Deuteronomy 31
+136. Deuteronomy 32:1-27
+137. Deuteronomy 32:28-52
+138. Deuteronomy 33
+139. Deuteronomy 34, Joshua 1
+140. Joshua 2-3
+141. Joshua 3-4
+142. Joshua 5-6
+143. Joshua 7
+144. Joshua 8
+145. Joshua 9
+146. Joshua10
+147. Joshua 11
+148. Joshua 12
+149. Joshua 13
+150. Joshua 14
+151. Joshua 15
+152. Joshua 16-17
+153. Joshua18
+154. Joshua 19
+155. Joshua 20-21
+156. Joshua 22
+157. Joshua 23-24
+158. Judges 1
+159. Judges 2
+160. Judges 3
+161. Judges 5
+162. Judges 6
+163. Judges 7
+164. Judges 8
+165. Judges 9
+166. Judges 10-11
+167. Judges12
+168. Judges 13
+169. Judges14-15
+170. Judges 16
+171. Judges17-18
+172. Judges 19
+173. Judges 20
+174. Judges 21
+175. Ruth 1-2
+176. Ruth 3-4
+177. 1 Samuel 1
+178. 1 Samuel 2
+179. 1 Samuel 3-4
+180. 1 Samuel 4-5
+181. 1 Samuel 6-7
+182. 1 Samuel 8-9
+183. 1 Samuel 10
+184. 1 Samuel 11-12
+185. 1 Samuel 13
+186. 1 Samuel 14
+187. 1 Samuel 15
+188. 1 Samuel 16
+189. 1 Samuel 17
+190. 1 Samuel 18
+191. 1 Samuel 19
+192. 1 Samuel 20
+193. 1 Samuel 21-22
+194. 1 Samuel 23-24
+195. 1 Samuel 25
+196. 1 Samuel 26-27
+197. 1 Samuel 28-29
+198. 1 Samuel 30-31
+199. 2 Samuel 1
+200. 2 Samuel 2
+201. 2 Samuel 3
+202. 2 Samuel 4-5
+203. 2 Samuel 6
+204. 2 Samuel 7-8
+205. 2 Samuel 9-10
+206. 2 Samuel 11-12
+207. 2 Samuel 13
+208. 2 Samuel 14
+209. 2 Samuel 15
+210. 2 Samuel 16-17
+211. 2 Samuel 18
+212. 2 Samuel 19
+213. 2 Samuel 20-21
+214. 2 Samuel 22
+215. 2 Samuel 23
+216. 2 Samuel 24
+217. 1 Chronicles 1
+218. 1 Chronicles 2
+219. 1 Chronicles 3
+220. 1 Chronicles 4
+221. 1 Chronicles 5
+222. 1 Chronicles 6
+223. 1 Chronicles 7
+224. 1 Chronicles 8
+225. 1 Chronicles 9
+226. 1 Chronicles 10
+227. 1 Chronicles 11
+228. 1 Chronicles 12
+229. 1 Chronicles 13-14
+230. 1 Chronicles 15
+231. 1 Chronicles 16
+232. 1 Chronicles 17
+233. 1 Chronicles 18-20
+234. 1 Chronicles 21
+235. 1 Chronicles 22-23
+236. 1 Chronicles 24
+237. 1 Chronicles 25
+238. 1 Chronicles 26
+239. 1 Chronicles 27
+240. 1 Chronicles 28
+241. 1 Chronicles 29
+242. Psalms 1-4
+243. Psalms 5-7
+244. Psalms 8-10
+245. Psalms 11-14
+246. Psalms 15-17
+247. Psalm 18
+248. Psalms 19-21
+249. Psalms 22-24
+250. Psalms 25-27
+251. Psalms 28-30
+252. Psalms 31-32
+253. Psalms 33-34
+254. Psalms 35-36
+255. Psalms 37-38
+256. Psalms 39-40
+257. Psalms 41-43
+258. Psalms 44-46
+259. Psalms 47-49
+260. Psalms 50-52
+261. Psalms 53-56
+262. Psalms 57-59
+263. Psalms 60-64
+264. Psalms 65-67
+265. Psalm 68
+266. Psalm 69
+267. Psalms 70-71
+268. Psalms 72-73
+269. Psalms 74-75
+270. Psalms 76-77
+271. Psalm 78
+272. Psalm 79-81
+273. Psalms 82-85
+274. Psalms 86-88
+275. Psalm 89
+276. Psalms 90-92
+277. Psalms 93-96
+278. Psalms 97-101
+279. Psalms 102-103
+280. Psalm 104
+281. Psalm 105
+282. Psalm 106
+283. Psalm 107
+284. Psalms 108-110
+285. Psalms 111-115
+286. Psalms 116-118
+287. Psalm 119:1-64
+288. Psalm 119:65-120
+289. Psalm 119:121-176
+290. Psalms 120-128
+291. Psalms 129-134
+292. Psalms 135-137
+293. Psalms 138-140
+294. Psalms 141-144
+295. Psalms 145-147
+296. Psalms 148-150
+297. 2 Chronicles 1-2
+298. 2 Chronicles 3-4
+299. 2 Chronicles 4
+300. 2 Chronicles 5
+301. 2 Chronicles 6
+302. 2 Chronicles 7-8
+303. 2 Chronicles 9
+304. 1 Kings 1
+305. 1 Kings 2
+306. 1 Kings 3
+307. 1 Kings 4
+308. 1 Kings 5-6
+309. 1 Kings 7
+310. 1 Kings 8
+311. 1 Kings 9
+312. 1 Kings 10
+313. 1 Kings 11
+314. Proverbs 1-2
+315. Proverbs 3-4
+316. Proverbs 5-6
+317. Proverbs 7-8
+318. Proverbs 9-10
+319. Proverbs 11
+320. Proverbs 12-13
+321. Proverbs 14
+322. Proverbs 15
+323. Proverbs 16
+324. Proverbs 17-18
+325. Proverbs 19
+326. Proverbs 20
+327. Proverbs 21
+328. Proverbs 22-23
+329. Proverbs 24
+330. Proverbs 25-26
+331. Proverbs 27-28
+332. Proverbs 29-30
+333. Proverbs 31, Ecclesiastes 1
+334. Ecclesiastes 2-3
+335. Ecclesiastes 4-5
+336. Ecclesiastes 6-7
+337. Ecclesiastes 8-9
+338. Ecclesiastes 10-12
+339. Song of Songs 1-2
+340. Song of Songs 3-4
+341. Song of Songs 5-6
+342. Song of Songs 7-8
+343. 2 Chronicles 10-11
+344. 2 Chronicles 12-13
+345. 2 Chronicles 14-16
+346. 2 Chronicles 17-18
+347. 2 Chronicles 19-20
+348. 2 Chronicles 21-22
+349. 2 Chronicles 23-24
+350. 2 Chronicles 25-26
+351. 2 Chronicles 27-28
+352. 2 Chronicles 29
+353. 2 Chronicles 30
+354. 2 Chronicles 31
+355. 2 Chronicles 32
+356. 2 Chronicles 33
+357. 2 Chronicles 34
+358. 2 Chronicles 35
+359. 2 Chronicles 36
+360. 1 Kings 12
+361. 1 Kings 13
+362. 1 Kings 14
+363. 1 Kings 15
+364. 1 Kings 16
+365. 1 Kings 17
+366. 1 Kings 18
+367. 1 Kings 19
+368. 1 Kings 20
+369. 1 Kings 21
+370. 1 Kings 22
+371. 2 Kings 1-2
+372. 2 Kings 3
+373. 2 Kings 4
+374. 2 Kings 5
+375. 2 Kings 6
+376. 2 Kings 7
+377. 2 Kings 8
+378. 2 Kings 9
+379. 2 Kings 10
+380. 2 Kings 11-12
+381. 2 Kings 13-14
+382. Amos 1-2
+383. Amos 3-4
+384. Amos 5-6
+385. Amos 7-8
+386. Amos 9
+387. 2 Kings 15
+388. Jonah
+389. Hosea 1-3
+390. Hosea 4-5
+391. Hosea 6-8
+392. Hosea 9-10
+393. Hosea 11-13
+394. Hosea 14, 2 Kings 16
+395. 2 Kings 17
+396. Isaiah 1
+397. Isaiah 2-3
+398. Isaiah 4-5
+399. Isaiah 6-7
+400. Isaiah 8
+401. Isaiah 9
+402. Isaiah 10
+403. Isaiah 11-12
+404. Isaiah 13
+405. Isaiah 14
+406. Isaiah 15-16
+407. Isaiah 17-18
+408. Isaiah 19-20
+409. Isaiah 21-22
+410. Isaiah 23
+411. Isaiah 24-25
+412. Isaiah 26-27
+413. Isaiah 28
+414. Isaiah 29
+415. Isaiah 30
+416. Isaiah 31-32
+417. Isaiah 33
+418. Isaiah 34-35
+419. Micah 1-2
+420. Micah 3-4
+421. Micah 5-6
+422. Micah 7
+423. 2 Kings 18
+424. 2 Kings 19
+425. 2 Kings 20
+426. Isaiah 36
+427. Isaiah 37
+428. Isaiah 38-39
+429. Isaiah 40
+430. Isaiah 41
+431. Isaiah 42
+432. Isaiah 43
+433. Isaiah 44
+434. Isaiah 45
+435. Isaiah 46-47
+436. Isaiah 48
+437. Isaiah 49
+438. Isaiah 50-51
+439. Isaiah 52-53
+440. Isaiah 54-55
+441. Isaiah 56-57
+442. Isaiah 58
+443. Isaiah 59
+444. Isaiah 60-61
+445. Isaiah 62-63
+446. Isaiah 64-65
+447. Isaiah 66
+448. 2 Kings 21, Jeremiah 1
+449. Jeremiah 2
+450. Jeremiah 3
+451. Jeremiah 4
+452. Jeremiah 5
+453. Jeremiah 6
+454. Jeremiah 7
+455. Jeremiah 8
+456. Jeremiah 9
+457. Jeremiah 10
+458. Jeremiah 11
+459. Jeremiah 12-13
+460. Jeremiah 14
+461. Jeremiah 15
+462. Jeremiah 16
+463. Jeremiah 17
+464. Jeremiah 18-19
+465. Jeremiah 20
+466. 2 Kings 22
+467. 2 Kings 23:1-30
+468. Nahum 1-2
+469. Nahum 3
+470. Zephaniah 1-2
+471. Zephaniah 3, 2 Kings 23:31-24:7
+472. Jeremiah 35-36
+473. Daniel 1, Habakkuk 1
+474. Habakkuk 2-3
+475. 2 Kings 24:8-20, Joel 1
+476. Joel 2
+477. Joel 3, Jeremiah 21
+478. Jeremiah 22
+479. Jeremiah 23
+480. Jeremiah 24-25
+481. Jeremiah 26-27
+482. Jeremiah 28-29
+483. Jeremiah 30
+484. Jeremiah 31
+485. Jeremiah 32
+486. Jeremiah 33
+487. Jeremiah 34
+488. Jeremiah 37-38
+489. 2 Kings 25:1-26 Jeremiah 52:1-30
+490. Jeremiah 39-40
+491. Jeremiah 41-42
+492. Jeremiah 43-44
+493. Jeremiah 45-46
+494. Jeremiah 47
+495. Jeremiah 48
+496. Jeremiah 49
+497. Jeremiah 50:1-38
+498. Jeremiah 50:39-51:26
+499. Jeremiah 51:27-64
+500. Obadiah
+501. Lamentations 1
+502. Lamentations 2
+503. Lamentations 3
+504. Lamentations 4-5
+505. Ezekiel 1-2
+506. Ezekiel 3
+507. Ezekiel 4-5
+508. Ezekiel 6-7
+509. Ezekiel 8-9
+510. Ezekiel 10-11
+511. Ezekiel 12-13
+512. Ezekiel 14-15
+513. Ezekiel 16
+514. Ezekiel 17
+515. Ezekiel 18-19
+516. Ezekiel 20
+517. Ezekiel 21
+518. Ezekiel 22
+519. Ezekiel 23
+520. Ezekiel 24-25
+521. Ezekiel 26
+522. Ezekiel 27
+523. Ezekiel 28
+524. Ezekiel 29
+525. Ezekiel 30-31
+526. Ezekiel 32
+527. Ezekiel 33
+528. Ezekiel 34-35
+529. Ezekiel 36
+530. Ezekiel 37
+531. Ezekiel 38-39
+532. Ezekiel 40
+533. Ezekiel 41-42
+534. Ezekiel 43
+535. Ezekiel 44
+536. Ezekiel 45-46
+537. Ezekiel 47
+538. Ezekiel 48
+539. Jeremiah 52:31-34 2 Kings 25:27-30 Daniel 2
+540. Daniel 3
+541. Daniel 4
+542. Daniel 5, Ezra 1
+543. Ezra 2
+544. Ezra 3, Daniel 6
+545. Daniel 7
+546. Daniel 8
+547. Daniel 9
+548. Daniel 10
+549. Daniel 11
+550. Daniel 12, Ezra 4
+551. Haggai
+552. Zechariah 1-3
+553. Zechariah 4-7
+554. Zechariah 8, Ezra 5
+555. Ezra 6
+556. Zechariah 9-11
+557. Zechariah 12-14
+558. Esther 1-2
+559. Esther 3-5
+560. Esther 6-8
+561. Esther 9-10
+562. Ezra 7
+563. Ezra 8
+564. Ezra 9-10
+565. Nehemiah 1-3
+566. Nehemiah 4-5
+567. Nehemiah 6
+568. Nehemiah 7
+569. Nehemiah 8
+570. Nehemiah 9
+571. Nehemiah 10
+572. Nehemiah 11
+573. Nehemiah 12
+574. Nehemiah 13
+575. Malachi 1-2
+576. Malachi 3-4
+577. Matthew 1-2  (A.D. 45-55, from/to Antioch)
+578. Matthew 3-4
+579. Matthew 5
+580. Matthew 6
+581. Matthew 7
+582. Matthew 8
+583. Matthew 9
+584. Matthew 10-11
+585. Matthew 12
+586. Matthew 13
+587. Matthew 14
+588. Matthew 15
+589. Matthew 16-17
+590. Matthew 18
+591. Matthew 19-20
+592. Matthew 21
+593. Matthew 22
+594. Matthew 23
+595. Matthew 24
+596. Matthew 25
+597. Matthew 26
+598. Matthew 27
+599. Matthew 28
+600. Luke 1 (A.D. 60, in Rome)
+601. Luke 2
+602. Luke 3
+603. Luke 4
+604. Luke 5
+605. Luke 6
+606. Luke 7
+607. Luke 8
+608. Luke 9
+609. Luke 10
+610. Luke 11
+611. Luke 12
+612. Luke 13
+613. Luke 14-15
+614. Luke 16-17
+615. Luke 18
+616. Luke 19
+617. Luke 20
+618. Luke 21
+619. Luke 22
+620. Luke 23
+621. Luke 24
+622. Mark 1 (A.D. 69, from Rome)
+623. Mark 2-3
+624. Mark 4
+625. Mark 5
+626. Mark 6
+627. Mark 7
+628. Mark 8
+629. Mark 9
+630. Mark 10
+631. Mark 11
+632. Mark 12
+633. Mark 13
+634. Mark 14
+635. Mark 15-16
+636. Acts 1-2 (book: A.D. 61, in Rome) (events: A.D. 30)
+637. Acts 3-4 (events: A.D. 32)
+638. Acts 5-6 (events: A.D. 32-35)
+639. Acts 7 (events: A.D. 35-38)
+640. Acts 8 (events: A.D. 35-38)
+641. Acts 9 (events: A.D. 35-38)
+642. Acts 10-11 (events: A.D. 38-44)
+643. Acts 12 (events: A.D. 44)James 1 (A.D. 45-48; in & to Palestine)
+644. James 2-3
+645. James 4-5
+646. Acts 13 (events: A.D. 46)
+647. Acts 14-15 (events: A.D. 46-49)
+648. Acts 16 (events: A.D. 49)
+649. Acts 17-18:5 (events: A.D. 50) 1 Thessalonians 1 (A.D. 51, from Corinth)
+650. 1 Thessalonians 2-4
+651. 1 Thessalonians 5Acts 18:6-18  (events: A.D. 51-53) 2 Thessalonians 1-2 (A.D. 52, from Corinth)
+652. 2 Thessalonians 3 Acts 18:19-21  (events: A.D. 52-53); Galatians 1-2  (A.D. 53, from Ephesus)
+653. Galatians 3-4
+654. Galatians 5-6
+655. Acts 18:22-19:12  (events: A.D. 53-55) Philippians 1  (A.D. 54, from Ephesus)
+656. Philippians 2-4
+657. Acts 19:13-22 (events: A.D. 55)  1 Corinthians 1-2  (A.D. 55, from Ephesus)
+658. 1 Corinthians 3-4
+659. 1 Corinthians 5-6
+660. 1 Corinthians 7-8
+661. 1 Corinthians 9-10
+662. 1 Corinthians 11-12
+663. 1 Corinthians 13-14
+664. 1 Corinthians 15-16
+665. Acts 19:23-20:2  (events: A.D. 56-57) 2 Corinthians 1-2  (A.D. 57, from Macedonia)
+666. 2 Corinthians 3-5
+667. 2 Corinthians 6-8
+668. 2 Corinthians 9-11
+669. 2 Corinthians 12-13
+670. Acts 20:2-3 (events: A.D. 57) Romans 1-2  (A.D. 57, from Corinth)
+671. Romans 3-4
+672. Romans 5-7
+673. Romans 8
+674. Romans 9-10
+675. Romans 11-12
+676. Romans 13-14
+677. Romans 15-16
+678. Acts 20 (events : A.D. 57)
+679. Acts 21 (events : A.D. 57)
+680. Acts 22-23 (events: A.D. 57-59)
+681. Acts 24-25 (events: A.D. 57-59)
+682. Acts 26-27 (events: A.D. 59)
+683. Acts 28 (events: A.D. 59-61) Ephesians 1  (A.D. 60, from Rome)
+684. Ephesians 2-4
+685. Ephesians 5-6
+686. Colossians 1-2  (A.D. 61, from Rome)
+687. Colossians 3-4
+688. Philemon (A.D. 61, from Rome) Hebrews 1-2  (A.D. 62, from Rome)
+689. Hebrews 3-6
+690. Hebrews 7-8
+691. Hebrews 9-10
+692. Hebrews 11
+693. Hebrews 12-13
+694. Titus (A.D. 65, from Miletus) 
+695. 1 Timothy 1-4  (A.D. 65, from Philippi)
+696. 1 Timothy 5-6
+697. 2 Timothy 1-3  (A.D. 66, from Rome)
+698. 2 Timothy 4 1 Peter 1 (A.D. 67, from Rome)
+699. 1 Peter 2-3
+700. 1 Peter 4-5, Jude (A.D. 68)
+701. 2 Peter 1-2 (A.D. 68, from Rome)
+702. 2 Peter 3 3 John  (A.D. 85, to Gaius, in Ephesus) 2 John  (A.D. 85, to the Ephesian church) 1 John 1  (A.D. 85, to the Ephesian church)
+703. 1 John 2-3
+704. 1 John 4-5
+705. John 1-2  (A.D. 90, from Ephesus)
+706. John 3
+707. John 4
+708. John 5
+709. John 6
+710. John 7
+711. John 8
+712. John 9
+713. John 10
+714. John 11
+715. John 12
+716. John 13-14
+717. John 15-16
+718. John 17-18
+719. John 19
+720. John 20-21
+721. Revelation 1-2  (A.D. 95, from Patmos)
+722. Revelation 3-4
+723. Revelation 5-7
+724. Revelation 8-10
+725. Revelation 11-12
+726. Revelation 13-14
+727. Revelation 15-17
+728. Revelation 18-19
+729. Revelation 20
+730. Revelation 21-22
